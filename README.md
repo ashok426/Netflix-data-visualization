@@ -1,1 +1,1 @@
-# Querying-sqlite-from-python
+# Netflix data visualization
